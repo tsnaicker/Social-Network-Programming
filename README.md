@@ -1,0 +1,2 @@
+# Social-Network-Programming
+The purpose of this project was to develop a socket-based relay chat application in Java. The code was written in the Eclipse IDE and included a clean GUI for users to communicate from. One user would have to be the server through which all conversations take place. Some notable features include a log file of all server messages, timestamped and indicative of sender as well as "offline messages" which allowed someone joining the server after a conversation had taken place, to read those messages.
